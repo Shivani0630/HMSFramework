@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="5251" started-at="2023-07-28T18:03:01 IST" finished-at="2023-07-28T18:03:06 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="5251" started-at="2023-07-28T18:03:01 IST" finished-at="2023-07-28T18:03:06 IST">
+      <class name="XpathPractice.FacebookloginTest">
+        <test-method status="PASS" signature="facebook()[pri:0, instance:XpathPractice.FacebookloginTest@6e0e048a]" name="facebook" duration-ms="5223" started-at="2023-07-28T18:03:01 IST" finished-at="2023-07-28T18:03:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+      </class> <!-- XpathPractice.FacebookloginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
